@@ -155,6 +155,7 @@
 .reply__column:last-child button {
     right: 3px;
     top: 7px;
+    color: black;
 }
 
 .reply__column button {
