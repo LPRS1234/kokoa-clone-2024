@@ -57,6 +57,7 @@
     display: block;
     display: flex;
     justify-content: center;
+    position: relative;
     
 }
 
@@ -66,4 +67,13 @@
     color: white;
     border: 1px solid tomato;
     font-size: 15px;
+}
+
+.user-component__column {
+    width: 280px;
+}
+
+.user-component__sub i {
+    position: absolute;
+    top: 8px;
 }
