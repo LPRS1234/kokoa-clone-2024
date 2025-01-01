@@ -101,3 +101,9 @@
 .open-post__heart-count span {
     margin-left: 3px;
 }
+
+.icon-row__icon_link i,
+.icon-row__icon_link span {
+    display: flex;
+    justify-content: center;
+}

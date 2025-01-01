@@ -1,0 +1,27 @@
+.input_id {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #252525;
+    font-size: 20px;
+    opacity: 0.3;
+
+}
+
+.input_id input {
+    border: none;
+    font-size: 20px;
+}
+
+.my_id {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 25px 20px;
+    border-radius: 10px;
+}
+
+.my_id div > span {
+    font-size: 20px;
+}
